@@ -4,8 +4,8 @@ This repository contains Python programming guides, as well as examples and best
 
 Currently there Python guides for:
 
-- [GitHub repositories](guides/github-repositories.md)
-- [Jupyter Notebooks](guides/jupyter-notebooks.md)
+- [Data Analysis with Python](Data_Analysis_with_Python)
+   - [1. Data Analysis with Python - Basics](Data_Analysis_with_Python/1._Data_Analysis_with_Python_-_Basics.ipynb)
 
 ## Contributing
 
