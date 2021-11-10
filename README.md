@@ -4,8 +4,8 @@ This repository contains Python programming guides, as well as examples and best
 
 Currently there Python guides for:
 
-- [Data Analysis with Python](Data_Analysis_with_Python)
-   - [1. Data Analysis with Python - Basics](Data_Analysis_with_Python/1._Data_Analysis_with_Python_-_Basics.ipynb)
+- [Data Analysis with Python](Data%20Analysis%20with%20Python)
+   - [1. Data Analysis with Python - Basics](Data%20Analysis%20with%20Python/1.%20Data%20Analysis%20with%20Python%20-%20Basics.ipynb)
 
 ## Contributing
 
