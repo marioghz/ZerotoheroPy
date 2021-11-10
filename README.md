@@ -2,7 +2,7 @@
 
 This repository contains Python programming guides, as well as examples and best practices for content related to analysis and development of data processing solutions. The details and instructions are intended to give an overview of the main uses in data subjects in order to perform an analysis and manipulation of data for an engineering project, the attached codes, the documentation and the example analyzes follow. a coherent objective to this. While it is recommended to review the programming bases, here are some of the most common best practices that apply to our data engineering projects.
 
-Currently there Python guides for:
+Currently there Python documentation for:
 
 - [Data Analysis with Python](Data%20Analysis%20with%20Python)
    - [1. Data Analysis with Python - Basics](Data%20Analysis%20with%20Python/1.%20Data%20Analysis%20with%20Python%20-%20Basics.ipynb)
