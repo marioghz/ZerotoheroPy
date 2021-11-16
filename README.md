@@ -6,8 +6,8 @@ Currently there Python documentation for:
 
 - [Data Analysis with Python](Data%20Analysis%20with%20Python)
    - [1. Data Analysis with Python - Part 1](Data%20Analysis%20with%20Python/1.%20Data%20Analysis%20with%20Python%20-%20Part%201.ipynb)
-   - [2. Data Analysis with Python - Part 2](Data%20Analysis%20with%20Python/1.%20Data%20Analysis%20with%20Python%20-%20Part%201.ipynb)
-   - [3. Data Analysis with Python - Part 3](Data%20Analysis%20with%20Python/1.%20Data%20Analysis%20with%20Python%20-%20Part%201.ipynb)
+   - [2. Data Analysis with Python - Part 2](Data%20Analysis%20with%20Python/2.%20Data%20Analysis%20with%20Python%20-%20Part%202.ipynb)
+   - [3. Data Analysis with Python - Part 3](Data%20Analysis%20with%20Python/3.%20Data%20Analysis%20with%20Python%20-%20Part%203.ipynb)
 
 
 ## Contributing
