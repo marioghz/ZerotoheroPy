@@ -18,9 +18,7 @@ If you want to suggest changes to this content do the following:
 2. Create your feature branch (`git checkout -b my-new-feature`).
 3. Add your changes to staging area (`git add myfile`);
    This can be repeated multiple times.
-4. If you are adding a new style guide, do not forget to update
-   guides listing at `README.md`.
-5. Commit your changes in staging area (`git commit -m 'Added some feature'`).
-6. Push to the branch (`git push origin my-new-feature`).
-7. Create new Pull Request (PR).
-8. Ask for a PR review.
+4. Commit your changes in staging area (`git commit -m 'Added some feature'`).
+5. Push to the branch (`git push origin my-new-feature`).
+6. Create new Pull Request (PR).
+7. Ask for a PR review.
