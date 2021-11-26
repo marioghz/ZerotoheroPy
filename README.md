@@ -9,7 +9,7 @@ Currently there Python documentation for:
    - [2. Data Analysis with Python - Part 2](Data%20Analysis%20with%20Python/2.%20Data%20Analysis%20with%20Python%20-%20Part%202.ipynb)
    - [3. Data Analysis with Python - Part 3](Data%20Analysis%20with%20Python/3.%20Data%20Analysis%20with%20Python%20-%20Part%203.ipynb)
 - [NumPy and Pandas](NumPy%20and%20Pandas)
-   - [1. Data Analysis with Python - Numpy](Data%20Analysis%20with%20Python/1.%20Data%20Analysis%20with%20Python%20-%20Part%201.ipynb)
+   - [1. Data Analysis with Python - Numpy](NumPy%20and%20Pandas/1.%20Data%20Analysis%20with%20Python%20-%20Numpy.ipynb)
 
 ## Contributing
 
